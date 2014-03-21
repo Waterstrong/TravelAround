@@ -1,0 +1,12 @@
+﻿<Window x:Class="TravelAround.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Travel Around" Height="700" Width="750" Loaded="Window_Loaded" Closing="Window_Closing" KeyDown="Window_KeyDown" MouseDoubleClick="Window_MouseDoubleClick" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown" xmlns:k="http://schemas.microsoft.com/kinect/2013" Background="Black">
+    <Grid>
+        <Image Name="image_scene"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Stretch="Fill" Visibility="Visible" />
+        <Image Name="image_mask" Width="640" Height="480" Margin="44,0,44,70" VerticalAlignment="Bottom" />
+        <k:KinectSensorChooserUI HorizontalAlignment="Center" Margin="0 0 0 5" VerticalAlignment="Top" Name="sensorChooserUi"  />
+        <Image HorizontalAlignment="Left" Margin="58,54,0,0" Name="image_left" Stretch="Uniform" VerticalAlignment="Top" Width="318" Height="187" Visibility="Visible" />
+        <Image Height="187" Margin="0,54,57,0" Name="image_right" Stretch="Uniform" VerticalAlignment="Top" HorizontalAlignment="Right" Width="303" Visibility="Visible" />
+    </Grid>
+</Window>

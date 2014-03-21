@@ -1,0 +1,10 @@
+E:\Projects\MotionRecogSln\NUI.Data\bin\Debug\NUI.Data.dll
+E:\Projects\MotionRecogSln\NUI.Data\bin\Debug\NUI.Data.pdb
+E:\Projects\MotionRecogSln\NUI.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MotionRecogSln\NUI.Data\obj\Debug\NUI.Data.dll
+E:\Projects\MotionRecogSln\NUI.Data\obj\Debug\NUI.Data.pdb
+E:\Projects\TravelAroundSln\NUI.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\TravelAroundSln\NUI.Data\obj\Debug\NUI.Data.dll
+E:\Projects\TravelAroundSln\NUI.Data\obj\Debug\NUI.Data.pdb
+E:\Projects\TravelAroundSln\NUI.Data\bin\Debug\NUI.Data.dll
+E:\Projects\TravelAroundSln\NUI.Data\bin\Debug\NUI.Data.pdb
